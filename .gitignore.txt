@@ -1,2 +1,2 @@
 #ignore word file#
-".word
+".doc
